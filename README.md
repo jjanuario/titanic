@@ -7,7 +7,7 @@ Prevendo os sobreviventes do Titanic para obter familiaridade com o uso básico 
 
 You're new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions.
 
-![](header.png)
+![](img/header.png)
 
 ## Competition Description
 
@@ -37,12 +37,11 @@ The file should have exactly 2 columns:
 PassengerId (sorted in any order)
 Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 
-|=====================|
 |PassengerId | Survived|
+|----------------------|
 | 892 | 0|
 | 893 | 1|
 | 894 | 0|
-|======================|
 
 ## Motivação
 
