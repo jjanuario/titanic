@@ -1,6 +1,8 @@
 # Titanic: Machine Learning from Disaster
 Prevendo os sobreviventes do Titanic para obter familiaridade com o uso básico de Machine Learn
 
+### São Paulo 07 de Agosto 2019.
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
