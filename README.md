@@ -39,9 +39,9 @@ Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 
 |PassengerId | Survived|
 |----------------------|
-| 892 | 0|
-| 893 | 1|
-| 894 | 0|
+| 892        | 0       |
+| 893        | 1       |
+| 894        | 0       |
 
 ## Motivação
 
