@@ -5,7 +5,7 @@ Prevendo os sobreviventes do Titanic para obter familiaridade com o uso básico 
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-"You're new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions."
+You\'re new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions.
 
 ![](img/header.png)
 
