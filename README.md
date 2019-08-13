@@ -5,7 +5,7 @@ Prevendo os sobreviventes do Titanic para obter familiaridade com o uso básico 
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-You're new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions.
+"You're new to data science and machine learning, or looking for a simple intro to the Kaggle prediction competitions."
 
 ![](img/header.png)
 
@@ -46,6 +46,7 @@ Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 ## Motivação
 
 Quero participar das competições de Machine Learn no [kaggle](Kaggle.com) com isso adquirir conhecimento e aprender a utilizar essa tecnologia utilizando fontes diversas.
+
 ![](img/submition.png)
 
 <!-- Markdown link & img dfn's -->
