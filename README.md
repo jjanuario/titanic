@@ -46,8 +46,8 @@ Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 ## Motivação
 
 Quero participar das competições de Machine Learn no [kaggle](Kaggle.com) com isso adquirir conhecimento e aprender a utilizar essa tecnologia utilizando fontes diversas.
-\quora
-![](img/submition.PNG)
+\quota
+![](img/submition.png)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
