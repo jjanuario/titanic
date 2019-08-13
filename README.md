@@ -1,8 +1,6 @@
 # Titanic: Machine Learning from Disaster
 Prevendo os sobreviventes do Titanic para obter familiaridade com o uso básico de Machine Learn
 
-### São Paulo 07 de Agosto 2019.
-
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
@@ -39,15 +37,16 @@ The file should have exactly 2 columns:
 PassengerId (sorted in any order)
 Survived (contains your binary predictions: 1 for survived, 0 for deceased)
 
-| PassengerId | Survived|
-|:------------|--------:|
-| 892         | 0       |
-| 893         | 1       |
-| 894         | 0       |
+| PassengerId | Survived |
+|-------------|----------|
+| 892         | 0        |
+| 893         | 1        |
+| 894         | 0        |
 
 ## Motivação
 
 Quero participar das competições de Machine Learn no [kaggle](Kaggle.com) com isso adquirir conhecimento e aprender a utilizar essa tecnologia utilizando fontes diversas.
+![](img/submition.png)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
